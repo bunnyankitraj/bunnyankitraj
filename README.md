@@ -103,11 +103,6 @@ Grafana • New Relic
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bunnyankitraj&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ankitraj1998/)
