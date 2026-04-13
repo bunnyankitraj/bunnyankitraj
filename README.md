@@ -52,7 +52,7 @@ Backend Engineer with **4.5+ years of experience** building and scaling **distri
 
 ## 📊 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunnyankitraj&show_icons=true&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bunnyankitraj&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bunnyankitraj&theme=tokyonight)
 
 
