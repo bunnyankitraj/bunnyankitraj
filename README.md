@@ -104,8 +104,7 @@ Grafana • New Relic
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bunnyankitraj\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bunnyankitraj&show_icons=true)
 
 ---
 
