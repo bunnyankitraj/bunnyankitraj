@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ankit Raj
 
-🚀 Backend Software Engineer | Distributed Systems | Scalable Architectures
-💼 SDE @ DP World | Ex- Ixigo | 🇮🇳 India
+![Profile Views](https://komarev.com/ghpvc/?username=bunnyankitraj&label=Profile%20views&color=0e75b6&style=flat)
 
+🚀 Backend Software Engineer | Distributed Systems | Scalable Architectures💼 SDE @ DP World | Ex- Ixigo | 🇮🇳 India
 ---
 
 ## 🚀 About Me
@@ -13,7 +13,6 @@ Backend Engineer with **4.5+ years of experience** building and scaling **distri
 * 🧠 Expertise in **event-driven systems, concurrency & scalability**
 * 📈 Proven impact on **performance, reliability & revenue**
 * 🔍 Passionate about solving **real-world user problems**
-
 ---
 
 ## 💼 Experience
